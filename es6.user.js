@@ -27,5 +27,6 @@
     "use strict";
     var $ = $ || window.$;
 
-    console.log('Date:',new Date());
+    console.log('Date:', new Date());
+    console.log('test');
 })();
