@@ -2,7 +2,7 @@
 // @name                ES6
 // @namespace    	    http://tampermonkey.net/
 // @version      		1.0
-// @description  	    try to take over the world!
+// @description  	    script test!!!
 // @author       		Born
 // @icon 		  		https://s2.ax1x.com/2019/09/26/uu9x9x.png
 // @include		   		*://*.imooc.com*
